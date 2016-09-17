@@ -1,0 +1,30 @@
+{
+    "name": "phrozenbyte/pico-http-params",
+    "description": "This is Pico's official HTTP parameters plugin to access GET and POST parameters in Twig templates. Pico is a stupidly simple, blazing fast, flat file CMS.",
+    "keywords": ["pico","pico-plugin"],
+    "homepage": "http://picocms.org/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Rudolf",
+            "homepage": "http://daniel-rudolf.de/",
+            "role": "Lead Developer"
+        },
+        {
+            "name": "The Pico Community",
+            "homepage": "https://github.com/PhrozenByte/pico-http-params/graphs/contributors",
+            "role": "Contributors"
+        }
+    ],
+    "support": {
+        "docs": "http://picocms.org/docs/pico-http-params/",
+        "issues": "https://github.com/PhrozenByte/pico-http-params/issues",
+        "source": "https://github.com/PhrozenByte/pico-http-params"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [ "PicoHttpParams.php" ]
+    }
+}
