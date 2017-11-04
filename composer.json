@@ -12,9 +12,8 @@
             "role": "Lead Developer"
         },
         {
-            "name": "The Pico Community",
-            "homepage": "https://github.com/PhrozenByte/pico-http-params/graphs/contributors",
-            "role": "Contributors"
+            "name": "Contributors",
+            "homepage": "https://github.com/PhrozenByte/pico-http-params/graphs/contributors"
         }
     ],
     "support": {
